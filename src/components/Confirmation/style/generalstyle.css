@@ -1,0 +1,132 @@
+.block-confirmation {
+    position: absolute;
+    background-color: #FFFFFF;
+    width: inherit;
+    height: inherit;
+
+    margin-left: 372px;
+    margin-top: 216px;
+    border-radius: 10px;
+    box-shadow: 0px 1px 10px rgba(32, 75, 146, 0.5);
+}
+
+.block-header-confirm {
+    border-radius: 10px 10px 0px 0px;
+    background: #FAFAFA;
+    height: 55px;
+}
+
+.text-header-confirm {
+    padding-top: 19px;
+    padding-left: 22.5px;
+    font-family: "Open Sans", sans-serif;
+    font-size: 15px;
+    line-height: 20px;
+    border-bottom: 1px solid #EDEDF0;
+    letter-spacing: 1px;
+    word-spacing: -0.5px;
+    font-stretch: condensed;
+}
+
+.block-with-info {
+    height: 136.5px;
+
+    margin-top: 22px;
+}
+
+
+.icon-and-date-vacation img {
+    margin-left: 25px;
+    margin-top: 22px;
+    height: 45px;
+}
+
+.icon-and-date-vacation div {
+    font-stretch: expanded;
+    font-weight: 600;
+    margin-left: 84px;
+    margin-top: -36px;
+    font-family: "Open Sans", sans-serif;
+    font-size: 13.5px;
+    word-spacing: -1.8px;
+}
+
+
+.block-buttons-cancel-confirm {
+    border-radius: 0px 0px 10px 10px;
+    background: #FAFAFA;
+    height: 55px;
+}
+
+.hr-block-button {
+    position: absolute;
+    padding-top: 13.5px;
+    border-bottom: 1px solid #EDEDF0;
+    width: 457px;
+}
+
+.button-cancel {
+    margin-top: 13px;
+    margin-left: 269px;
+    font-family: "Open Sans", sans-serif;
+    font-size: 11px;
+    padding-top: 2px;
+    letter-spacing: -0.8px;
+    width: 72.5px;
+    position: absolute;
+    height: 31px;
+    background: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+
+.button-confirm {
+    margin-top: 13px;
+    margin-left: 347px;
+    font-family: "Open Sans", sans-serif;
+    font-size: 11px;
+    letter-spacing: -0.8px;
+    color: #FFFFFF;
+    width: 82.5px;
+    height: 31px;
+    position: absolute;
+    background: #5495FF;
+    border: 1px solid #4C88E8;
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+
+.button-confirm-anyway {
+    margin-top: 12px;
+    position: absolute;
+    margin-left: 177.5px;
+    font-family: "Open Sans", sans-serif;
+    font-size: 11px;
+    padding-top: 2px;
+    letter-spacing: -0.5px;
+    width: 128px;
+    height: 31px;
+    background: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+
+.button-change-dates {
+    margin-top: 12px;
+    position: absolute;
+    margin-left: 310px;
+    font-family: "Open Sans", sans-serif;
+    font-size: 11px;
+    padding-top: 2px;
+    letter-spacing: -0.8px;
+    word-spacing: 0.3px;
+    width: 119.5px;
+    height: 31px;
+    background: #5495FF;
+    border: 1px solid #4C88E8;
+    color: #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 3px;
+}

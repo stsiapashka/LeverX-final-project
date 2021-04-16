@@ -1,0 +1,51 @@
+.container-list-leave-requests {
+    margin-top: 8px;
+    margin-left: 500px;
+    position: absolute;
+    width: 562px;
+    height: auto;
+    min-height: 562px;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 3px rgba(32, 75, 146, 0.15);
+    border-radius: 5px;
+}
+
+.header-my-leave-requests {
+    margin-top: 20px;
+    margin-left: 20.6px;
+    font-family: "Open Sans", sans-serif;
+    font-style: normal;
+    font-weight: 550;
+    font-size: 15px;
+    letter-spacing: -0.1px;
+    word-spacing: -0.2px;
+    color: #333D47;
+    height: 35px;
+}
+
+.imglist {
+    position: absolute;
+    height: 238px;
+    margin-left: 167.8px;
+    margin-top: 125.5px;
+}
+
+.lineyear {
+    line-height: 18.5px;
+    background: #5495FF;
+    font-size: 11px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    padding-left: 25px;
+    letter-spacing: -0.7px;
+    word-spacing: 0.1px;
+}
+
+.blocks-vacation {
+    font-family: "Open Sans", sans-serif;
+    font-size: 12px;
+    color: #333D47;
+    height: auto;
+}
+
+

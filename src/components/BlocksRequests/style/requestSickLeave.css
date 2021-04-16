@@ -1,0 +1,101 @@
+.request-sick-leave {
+    position: absolute;
+    background-color: #FFFFFF;
+    width: 416px;
+    height: 442px;
+    margin-top: 8px;
+    margin-left: 392px;
+    border-radius: 10px;
+    box-shadow: 0px 1px 10px rgba(32, 75, 146, 0.5);
+}
+
+.block-sick-leave {
+    height: 96.5px;
+    border-bottom: 1px solid #F1F2F7;
+    margin-top: 1px;
+
+}
+
+.block-sick-leave img {
+    height: 42px;
+    width: 42.5px;
+    margin-left: 22px;
+    margin-top: 17.5px;
+}
+
+.sick-leave-date {
+    margin-left: 76px;
+    margin-top: -47px;
+    font-family: "Open Sans", sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 11.5px;
+    line-height: 13px;
+    letter-spacing: -0.1px;
+    word-spacing: 0px;
+    color: #333D47;
+}
+
+.date-created-sick-leave {
+    margin-left: 76.5px;
+    font-family: "Open Sans", sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 9.5px;
+    line-height: 20px;
+    letter-spacing: -0.05px;
+    word-spacing: -1.6px;
+    color: #333D47;
+}
+
+.pending-confirmation {
+    margin-top: 8px;
+    margin-left: 76px;
+    font-family: "Open Sans", sans-serif;
+    font-style: italic;
+    font-weight: 600;
+    font-size: 9px;
+    color: #AFB7BF;
+}
+
+.block-notified-users {
+    font-family: "Open Sans", sans-serif;
+    margin-top: 14.5px;
+    margin-left: 25px;
+    height: 141px;
+}
+
+.div-notified-users {
+    font-weight: 600;
+    font-size: 9.5px;
+    color: #AFB7BF;
+    line-height: 30px;
+    word-spacing: 0px;
+    letter-spacing: -0.15px;
+}
+
+.employee-notified-users {
+    height: 35px;
+}
+
+.employee-notified-users img {
+    margin-left: -0.5px;
+    height: 27px;
+    width: 27px;
+}
+
+.div-name-employee-notified-users {
+    letter-spacing: 0.1px;
+    word-spacing: 0.4px;
+    text-decoration-line: underline;
+    color: #333D47;
+    margin-left: 39px;
+    margin-top: -24px;
+    font-size: 10px;
+    font-weight: 550;
+    line-height: 13px;
+}
+
+.sick-button-change {
+    margin-top: 0px;
+}

@@ -1,0 +1,31 @@
+.size-less {
+    width: 457px;
+    height: 283px;
+}
+
+.txt-red {
+    margin-top: -1px;
+    font-stretch: condensed;
+    font-family: "Open Sans", sans-serif;
+    font-size: 12px;
+    margin-left: 27.5px;
+    letter-spacing: 1.1px;
+    word-spacing: 0px;
+    line-height: 16.5px;
+    color: #F80000;
+}
+
+.txt-less-2-week {
+    margin-top: 23px;
+    margin-bottom: -10.5px;
+    font-family: "Open Sans", sans-serif;
+    font-size: 12px;
+    margin-left: 27px;
+    letter-spacing: 0.2px;
+    word-spacing: -1px;
+    line-height: 16.5px;
+}
+
+.less-buttons {
+    margin-top: 16px;
+}

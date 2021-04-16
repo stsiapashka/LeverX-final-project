@@ -1,0 +1,95 @@
+
+.header {
+    width: 1200px;
+    height: 52.5px;
+    background-color: #225FBF;
+}
+
+.undoheader {
+    background-color: #1753B3;
+    width: 1200px;
+    height: 4px;
+}
+
+.sitelogo {
+    margin-left: 112px;
+    position: absolute;
+    color: #CCDFFF;
+}
+
+.companyName {
+    font-size: 6pt;
+    margin-top: 13.5px;
+    letter-spacing: 1.4px;
+    word-spacing: -1.5px;
+
+}
+
+.headingApplication {
+    font-weight: 550;
+    font-size: 11.5px;
+    margin-left: 0.3px;
+    letter-spacing: 1px;
+    word-spacing: 0px;
+    color: white;
+}
+
+.containerLinks {
+    display: inline-block;
+    position: absolute;
+    font-size: 8pt;
+    margin-left: 472px;
+    margin-top: 20px;
+}
+
+.linkAddressBook {
+    display: inline-block;
+    color: rgba(246, 248, 253, 0.3);
+    font-family: "Open Sans", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 11px;
+}
+
+.textAddress {
+    display: inline-block;
+    letter-spacing: 0.4px;
+}
+
+.textBook {
+    margin-left: 2px;
+    display: inline-block;
+    letter-spacing: 0.5px;
+}
+
+.linkLeaveRequests {
+    display: inline-block;
+    color: white;
+    font-family: "Open Sans", sans-serif;
+    font-style: normal;
+    font-size: 10px;
+    font-weight: 600;
+    margin-left: 43px;
+    margin-top: 2px;
+}
+
+.textLeave {
+    display: inline-block;
+    letter-spacing: 0.4px;
+
+}
+
+.textRequests {
+    display: inline-block;
+    margin-left: 2.9px;
+    letter-spacing: 0.4px;
+}
+
+.slaider {
+    height: 4px;
+    width: 91px;
+    background-color: #5495FF;
+    margin-left: 583px;
+    border-radius: 1px;
+}
+

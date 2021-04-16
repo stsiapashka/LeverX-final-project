@@ -1,0 +1,76 @@
+.containerfreedays {
+    position: absolute;
+    margin-top: 8px;
+    margin-left: 100px;
+    height: 104px;
+    width: 391px;
+    border-radius: 5px;
+    box-shadow: 0px 1px 3px rgba(32, 75, 146, 0.15);
+    background-color: #FFFFFF;
+    font-family: "Open Sans", sans-serif;
+}
+
+.blockvacationdays {
+    border-bottom: 1px solid #F1F2F7;
+    height: 54px;
+}
+
+.div-vacation {
+    font-size: 14px;
+    margin-top: 29px;
+    margin-left: 25px;
+    letter-spacing: 1.2px;
+}
+
+.div-vacation-days {
+
+    font-size: 14px;
+    font-weight: 540;
+    margin-top: -17px;
+    margin-left: 92px;
+    letter-spacing: 1px;
+}
+
+.div-available {
+    font-size: 11px;
+    margin-left: 24.5px;
+    margin-top: 12px;
+    letter-spacing: 0.12px;
+}
+
+.count-free-days {
+    font-size: 11px;
+    margin-left: 347px;
+    margin-top: -12px;
+    font-weight: 400;
+}
+
+.block-more-details {
+    padding-left: 164px;
+    height: 21px;
+    width: 391px;
+    position: absolute;
+    display: inline-block;
+    background-color: #F6F8FD;
+    border-radius: 0px 0px 5px 5px;
+
+}
+
+.icon-two-arrows {
+    position: absolute;
+    margin-top: 7.2px;
+    height: 6px;
+    display: inline-block;
+    color: #AFB7BF;
+}
+
+.div-more-details {
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 13px;
+    font-size: 9px;
+    display: inline-block;
+    color: #AFB7BF;
+}
+
+

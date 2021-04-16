@@ -1,0 +1,38 @@
+.button-submit {
+    font-family: "Open Sans", sans-serif;
+    margin-top: 16px;
+    margin-left: 25px;
+    height: 30.5px;
+    width: 100px;
+    background-color: #5495FF;
+    border-radius: 3px;
+    font-size: 10px;
+    letter-spacing: 0.1px;
+    outline: none;
+    border: none;
+}
+
+.div-questions {
+    margin-left: 193.5px;
+    margin-top: -21px;
+    font-family: "Open Sans", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    letter-spacing: -0.1px;
+    word-spacing: -0.8px;
+    color: #333333;
+}
+
+.readFAQ {
+    margin-left: 278.5px;
+    margin-top: -14.5px;
+    font-family: "Open Sans", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 18px;
+    color: #5495FF;
+}
+
+

@@ -1,0 +1,31 @@
+.size-dublicate {
+    width: 458px;
+    height: 265px;
+}
+
+.dublicate-buttons {
+    margin-top: -3px;
+}
+
+.hr-dublicate {
+    position: absolute;
+    padding-top: 12px;
+    border-bottom: 1px solid #EDEDF0;
+    width: 458px;
+}
+
+.button-OK {
+    margin-top: 13px;
+    margin-left: 347px;
+    font-family: "Open Sans", sans-serif;
+    font-size: 11px;
+    padding-top: 2px;
+    letter-spacing: -0.8px;
+    width: 82.5px;
+    position: absolute;
+    height: 31px;
+    background: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    box-sizing: border-box;
+    border-radius: 3px;
+}

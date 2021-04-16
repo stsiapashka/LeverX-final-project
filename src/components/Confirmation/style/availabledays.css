@@ -1,0 +1,23 @@
+.size-available{
+    width: 457px;
+    height: 240px;
+}
+
+.txt-creating-new-req {
+    font-stretch: condensed;
+    font-family: "Open Sans", sans-serif;
+    font-size: 12px;
+    margin-left: 27.5px;
+    letter-spacing: 0.8px;
+    word-spacing: 0.75px;
+}
+.hr{
+    position: absolute;
+    padding-top: 15px;
+    border-bottom: 1px solid #EDEDF0;
+    width: 457px;
+}
+.position-button-block
+{
+margin-top: -23px;
+}

@@ -1,0 +1,63 @@
+.request-own-leave {
+    position: absolute;
+    background-color: #FFFFFF;
+    width: 416px;
+    height: 592px;
+    margin-top: 8px;
+    margin-left: 392px;
+    border-radius: 10px;
+    box-shadow: 0px 1px 10px rgba(32, 75, 146, 0.5);
+}
+
+.block-own-leave {
+    height: 98.5px;
+    border-bottom: 1px solid #F1F2F7;
+}
+
+.block-own-leave img {
+    height: 42px;
+    width: 42.5px;
+    margin-left: 21.5px;
+}
+
+.own-leave-date {
+    margin-left: 76.5px;
+    margin-top: -48.5px;
+    font-family: "Open Sans", sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12.5px;
+    line-height: 17px;
+    letter-spacing: 0px;
+    word-spacing: -1px;
+    color: #333D47;
+}
+
+.date-created-own-leave {
+    margin-top: 4px;
+    line-height: 14.5px;
+    margin-left: 76px;
+    font-family: " Open Sans", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    letter-spacing: -0.6px;
+    word-spacing: -0.7px;
+    color: #333D47;
+}
+
+.pending-approval-own {
+    margin-top: 13px;
+    margin-left: 76px;
+    font-family: "Open Sans", sans-serif;
+    font-style: italic;
+    font-weight: 600;
+    font-size: 9px;
+    letter-spacing: 0.1px;
+    color: #AFB7BF;
+}
+.own-button-change
+{
+    margin-top: -16.5px;
+}
+

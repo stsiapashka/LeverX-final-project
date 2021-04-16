@@ -1,0 +1,21 @@
+.select-type-request {
+    font-family: "Open Sans", sans-serif;
+    height: 30px;
+    width: 300px;
+    background-color: #FFFFFF;
+    border: 1px solid #DAE1E8;
+    outline: none;
+    border-radius: 3px;
+    appearance: none;
+    background: url("../../../image/selectarrow.svg") 96% / 3% no-repeat white;
+    padding: 7px;
+    font-size: 11px;
+    letter-spacing: 0.15px;
+    overflow: hidden;
+    display: block;
+}
+
+option {
+    border-radius: 3px;
+    font-size: 11px;
+}

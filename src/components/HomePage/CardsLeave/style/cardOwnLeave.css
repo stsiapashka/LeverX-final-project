@@ -1,0 +1,38 @@
+.card-own-leave {
+    position: absolute;
+    margin-top: 121px;
+    margin-left: 100px;
+    height: 452.5px;
+    width: 391px;
+    border-radius: 5px;
+    box-shadow: 0px 1px 3px rgba(32, 75, 146, 0.15);
+    background-color: #FFFFFF;
+    font-family: "Open Sans", sans-serif;
+}
+
+.block-own-start-date {
+    color: #333D47;
+    margin-top: 9px;
+    margin-left: 25px;
+}
+
+.input-own-date {
+    width: 134px;
+    margin-top: 2.5px;
+    height: 29px;
+}
+
+.block-own-end-date {
+    margin-top: -54px;
+    margin-left: 180px;
+}
+
+.block-comments-own {
+    margin-left: 24.5px;
+    margin-top: 11px;
+}
+
+.block-own-button-add-request {
+    margin-left: -0.5px;
+}
+

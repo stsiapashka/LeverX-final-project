@@ -1,0 +1,92 @@
+.change-own-leave {
+    position: absolute;
+    background-color: #FFFFFF;
+    width: 416px;
+    height: 459px;
+    margin-top: 8px;
+    margin-left: 392px;
+    border-radius: 10px;
+    box-shadow: 0px 1px 3px rgba(32, 75, 146, 0.5);
+}
+
+.block-change-own-leave {
+    height: 115px;
+    border-bottom: 1px solid #F1F2F7;
+}
+
+.block-change-own-leave img {
+    height: 42px;
+    width: 42px;
+    margin-left: 24px;
+    margin-top: 18.5px;
+}
+
+.change-own-leave-date {
+    margin-left: 79px;
+    margin-top: -47px;
+    font-family: "Open Sans", sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 0.18px;
+    word-spacing: -1.45px;
+    color: #333D47;
+}
+
+.change-date-created-own-leave {
+    margin-left: 79px;
+    margin-top: 1.5px;
+    font-family: " Open Sans", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10.5px;
+    line-height: 14px;
+    letter-spacing: -0.6px;
+    word-spacing: -0.7px;
+    color: #333D47;
+}
+
+.change-pending-approval-own {
+    margin-top: 13px;
+    margin-left: 79px;
+    font-family: "Open Sans", sans-serif;
+    font-style: italic;
+    font-weight: 600;
+    font-size: 10px;
+    letter-spacing: -0.5px;
+    color: #AFB7BF;
+}
+
+.data-change-own {
+    height: 191.5px;
+    margin-top: 23px;
+}
+
+.change-block-own-start-date {
+    margin-top: 12.5px;
+    margin-left: 25.5px;
+}
+
+.own-block-comments-change {
+    margin-top: 11.5px;
+    margin-left: 25px;
+    height: 88px;
+}
+
+
+/*.text-important*/
+/*{*/
+/*    margin-top: 14px;*/
+/*    margin-left: 1px;*/
+/*}*/
+.block-sick-change-start-date {
+    margin-top: 17.5px;
+    margin-left: 26px;
+}
+
+.block-comments-change-sick {
+    height: 78px;
+    margin-left: 26px;
+    margin-top: 16.5px;
+}

@@ -1,0 +1,153 @@
+.card-vacation-leave {
+    position: absolute;
+    margin-top: 121px;
+    margin-left: 100px;
+    height: 459px;
+    width: 392px;
+    border-radius: 5px;
+    box-shadow: 0px 1px 3px rgba(32, 75, 146, 0.15);
+    background-color: #FFFFFF;
+    font-family: "Open Sans", sans-serif;
+}
+
+.img-request {
+    width: 391px;
+    height: 142px;
+}
+
+div-new-request {
+    display: inline-block;
+    height: 40px;
+}
+
+.div-new {
+    margin-top: 12.5px;
+    margin-left: 25.2px;
+    line-height: 37px;
+    display: inline-block;
+    font-weight: 550;
+    font-size: 14.5px;
+    word-spacing: -0.9px;
+    letter-spacing: 1.1px;
+    color: #333D47;
+}
+
+.div-request {
+    margin-left: 3.5px;
+    display: inline-block;
+    font-weight: 550;
+    font-size: 14.5px;
+    letter-spacing: 0.2px;
+    color: #333D47;
+
+}
+
+.select {
+    margin-left: 24.5px;
+}
+
+.block-start-date {
+    color: #333D47;
+    margin-top: 11px;
+    margin-left: 25px;
+}
+
+.div-start-date {
+    font-weight: 600;
+    font-size: 10px;
+    line-height: 18px;
+    letter-spacing: 0.5px;
+}
+
+.div-start-inclusive {
+    margin-top: -18px;
+    margin-left: 55px;
+    font-size: 11px;
+    line-height: 18px;
+    letter-spacing: 0.3px;
+    opacity: 0.4;
+}
+
+.div-date {
+    margin-top: 2.5px;
+    width: 105.5px;
+    height: 28.5px;
+}
+
+.block-end-date {
+
+    margin-top: -51px;
+    margin-left: 150px;
+}
+
+.text-end-date {
+
+}
+
+.div-end-date {
+    font-weight: 600;
+    font-size: 10px;
+    line-height: 18px;
+    letter-spacing: 0.2px;
+    word-spacing: 0.5px;
+    display: inline-block;
+
+}
+
+.div-end-inclusive {
+    display: inline-block;
+    margin-left: 3px;
+    font-size: 11px;
+    line-height: 18px;
+    letter-spacing: 0.25px;
+    opacity: 0.4;
+}
+
+
+.block-days {
+    margin-left: 275px;
+    margin-top: -48.5px;
+}
+
+block-days-and-img {
+    position: absolute;
+}
+
+.div-days {
+    font-weight: 600;
+    font-size: 10.5px;
+    line-height: 18px;
+    letter-spacing: 0.2px;
+}
+
+.img-popup-window {
+    position: absolute;
+    margin-left: 37px;
+    margin-top: -15px;
+    height: 13px;
+}
+
+
+.input-days {
+    font-size: 11px;
+    background-color: #F6F8FD;
+    border: 1px solid #DAE1E8;
+    box-sizing: border-box;
+    border-radius: 3px;
+    margin-top: 2.5px;
+    height: 29.5px;
+    width: 50px;
+    appearance: none;
+    padding: 7px;
+}
+
+.block-comments {
+    margin-top: 14.5px;
+    margin-left: 25px;
+}
+
+.block-button-add-request {
+    margin-top: -3px;
+}
+
+
